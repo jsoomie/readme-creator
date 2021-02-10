@@ -2,6 +2,23 @@
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  ## Author
+  Created by: ${data.name}
+
+  ## GitHub Link
+  ${data.github}
+
+  ## Description
+  ${data.description}
+
+  ## GitHub Link
+  ${data.github}
+
+  ## License
+  ${data.license}
+
+  ## Credits
+  ${data.credit}
 `;
 }
 
