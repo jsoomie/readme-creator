@@ -32,10 +32,10 @@ const questions = [
         message: "Enter how to use the project: "
     },
     {
-        type: "input",
+        type: "list",
         name: "license",
         message: "Enter project licenses: ",
-        choices: ["MIT", "Otheres", "None"]
+        choices: ["MIT", "Others", "None"]
     },
     {
         type: "input",
