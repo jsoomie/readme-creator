@@ -13,9 +13,6 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
 
-  ## GitHub Link
-  ${data.github}
-
   ## License
   ${data.license}
 

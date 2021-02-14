@@ -35,7 +35,7 @@ const questions = [
         type: "list",
         name: "license",
         message: "Enter project licenses: ",
-        choices: ["MIT", "Others", "None"]
+        choices: ["MIT", "ISC", "Others", "None"]
     },
     {
         type: "input",
