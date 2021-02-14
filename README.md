@@ -1,21 +1,21 @@
 
-  # Project Windbreaker
+  # Readme Creator
+
+  ## Link
+[Link to the video](https://youtu.be/_mjbmHbsbbY)
 
   ## Author
   Created by: 
   Jonathan
 
   ## GitHub Link
-  www.github.com
+  [Link to GitHub Page](https://github.com/sksmejn/readme-creator)
 
   ## Description
-  This project aims to be the best that ever was.
-
-  ## GitHub Link
-  www.github.com
+  This project aims to create a readme creator that is simple and clean.
 
   ## License
   None
 
   ## Credits
-  Everyone that was involved in making this come true.
+  Everyone that was invovled!
